@@ -1,0 +1,1 @@
+# rc-scoped-test-plugin
